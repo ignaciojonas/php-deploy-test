@@ -1,6 +1,6 @@
 <?php
-for($i = 0; $i < 100; $i++)
-{
-	print "Hello World!\n";
-}
+require('./vendor/smarty/smarty/distribution/libs/Smarty.class.php');
+$smarty = new Smarty;
+$smarty->assign("Name","John Doe");
+$smarty->display('index.tpl');
 ?>
