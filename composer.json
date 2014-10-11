@@ -1,7 +1,6 @@
 {
   "repositories": [
         {
-        	"packagist": false,
             "type": "package",
             "package": {
                 "name": "smarty/smarty",
