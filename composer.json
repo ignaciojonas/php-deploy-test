@@ -1,9 +1,4 @@
 {
-	"name" : "ignaciojonas/php-deploy-test",
-	"repositories": [
-		"type": "vcs",
-		"url": "https://github.com/ignaciojonas/php-deploy-test"
-	],
     "require": {
         "smarty/smarty": "3.1.15"
     }
