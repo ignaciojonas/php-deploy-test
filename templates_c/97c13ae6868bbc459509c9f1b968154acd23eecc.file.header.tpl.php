@@ -1,4 +1,4 @@
-<?php /* Smarty version Smarty-3.1-DEV, created on 2014-10-10 21:46:36
+<?php /* Smarty version Smarty-3.1.7, created on 2014-10-10 22:20:50
          compiled from "./templates/header.tpl" */ ?>
 <?php /*%%SmartyHeaderCode:48323674054387da12beca8-92004666%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
@@ -15,7 +15,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   'function' => 
   array (
   ),
-  'version' => 'Smarty-3.1-DEV',
+  'version' => 'Smarty-3.1.7',
   'unifunc' => 'content_54387da12bf9d1_61685994',
   'has_nocache_code' => false,
 ),false); /*/%%SmartyHeaderCode%%*/?>
