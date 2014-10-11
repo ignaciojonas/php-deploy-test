@@ -17,6 +17,9 @@
         }
     ],
     "require": {
-        "smarty/smarty": "3.1.7"
+        "smarty/smarty": "3.1.7",
+        "twitter/bootstrap": "3.2.*",
+        "components/jquery": "2.1.1"
     }
+
 }
