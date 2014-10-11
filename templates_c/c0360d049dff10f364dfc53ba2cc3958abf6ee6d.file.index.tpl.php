@@ -1,4 +1,4 @@
-<?php /* Smarty version Smarty-3.1.7, created on 2014-10-10 22:20:50
+<?php /* Smarty version Smarty-3.1.7, created on 2014-10-10 22:34:34
          compiled from "./templates/index.tpl" */ ?>
 <?php /*%%SmartyHeaderCode:126082495354387da127ba48-34014965%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
@@ -7,7 +7,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     'c0360d049dff10f364dfc53ba2cc3958abf6ee6d' => 
     array (
       0 => './templates/index.tpl',
-      1 => 1412988393,
+      1 => 1412991143,
       2 => 'file',
     ),
   ),
@@ -20,6 +20,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   'variables' => 
   array (
     'Name' => 0,
+    'LastName' => 0,
   ),
   'has_nocache_code' => false,
 ),false); /*/%%SmartyHeaderCode%%*/?>
@@ -29,6 +30,8 @@ $_valid = $_smarty_tpl->decodeProperties(array (
  <div class="container">
   <h1>Personal Data</h1>
   <label>Name:</label> <p><?php echo $_smarty_tpl->tpl_vars['Name']->value;?>
+</p>
+  <label>Last Name:</label> <p><?php echo $_smarty_tpl->tpl_vars['LastName']->value;?>
 </p>
 </div>
 
