@@ -16,7 +16,7 @@
   </div>
 
   <div class="col-md-4">
-   <img id="image" src="images\gq2hLF8.gif" />
+   <img id="image" src="images\gato.jpg" />
    <button id="image-button" class="btn btn-primary btn-sm" >Hide Image</button>
   </div>
   <div class="col-md-3">
